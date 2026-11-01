@@ -15,6 +15,6 @@ class Ogrenci:
         print("Bölüm:", self.bolum)
 
 
-ogrenci1 = Ogrenci("Hümeyra", "Çamkerten", 12345, "Yönetim Bilişim Sistemleri")
+ogrenci1 = Ogrenci("Hümeyra", "Çamkerten", 251702015, "Yönetim Bilişim Sistemleri")
 
 ogrenci1.ekrana_bilgileri_goster()
